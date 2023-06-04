@@ -1,8 +1,16 @@
-# vue3-cinema
-
 ## Project setup
 ```
 npm install
+```
+
+## env variables for things like npm server port
+```
+cp .env_sample .env
+```
+
+## run the project
+```
+npm run start
 ```
 
 ### Compiles and hot-reloads for development
